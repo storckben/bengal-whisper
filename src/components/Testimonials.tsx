@@ -48,6 +48,16 @@ const Testimonials = () => {
       text: "Adquiri meu gato Bengal Brown Spotted Tabby, o Senna, e estou muito satisfeito! O Wilson é super atencioso, entende muito sobre a raça e dá pra ver o quanto ele ama o que faz. O Senna é um gato incrível, lindo demais e com um temperamento excelente. Recomendo demais o Gatil Dixini!"
     },
     { 
+      name: "William", 
+      location: "Governador Valadares, MG", 
+      text: "Nosso Shelby está enorme, bengal brown spotted, igual uma oncinha 🤣 que adquirimos com vocês, no Gatil Dixini MG. Já está com quase 7 meses. Mais uma vez obrigado por todo o suporte e pelo excelente atendimento. E obrigado por ter trago ele pra mim aqui me Governador Valadares MG. Em breve vou querer uma Snow Lynx de olhos azuis "
+    },
+    { 
+      name: "Weidimara", 
+      location: "Varginha, MG", 
+      text: "Quero agradecer pelo ótimo atendimento do início ao fim da compra do meu felino fiquei com um pouco de receio por não conhecer o gatil e o Wilson, mas não me decepcionei aqui em casa ele é nossa alegria e compania. Mas uma vez obrigada e com certeza estarei indicando o gatil para outras pessoas. Abraços!🥰🐱"
+    },
+    { 
       name: "Bruno Barbosa", 
       location: "Avaré, SP", 
       text: "Adquiri com o Wilson um Bengal Brown Spotted maravilhoso! Padrão da raça altíssimo. Temperamento perfeito e cada dia mais dócil e mais lindo. Ele se preocupou do início ao final em atestar perfeita saúde do animal, assim como orientações detalhadas sobre criação, adaptação na nossa rotina, brinquedos, arranhadores, suplementações. Tudo com muito cuidado e carinho. Somente boas recomendações! Indico para todos. Parabéns pelo trabalho!"

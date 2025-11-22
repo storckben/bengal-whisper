@@ -9,8 +9,8 @@ const AdoptionProcess = () => {
     {
       number: "02",
       emoji: "🏠",
-      title: "Conhecendo o Gatil",
-      description: "Agende uma visita para conhecer nossos gatinhos pessoalmente. Tire todas as suas dúvidas sobre a raça e nosso trabalho."
+      title: "Conhecendo os Gatinhos",
+      description: "Converse conosco pelo WhatsApp para conhecer nossos gatinhos através de fotos e vídeos atualizados. Tire todas as suas dúvidas sobre a raça e nosso trabalho."
     },
     {
       number: "03",
@@ -22,12 +22,12 @@ const AdoptionProcess = () => {
       number: "04",
       emoji: "📋",
       title: "Reserva e Documentação",
-      description: "Assinamos contrato de adoção responsável e você efetua a reserva. Mantemos contato até o gatinho estar pronto."
+      description: "Assinamos contrato de aquisição responsável e você efetua a reserva. Mantemos contato até o gatinho estar pronto."
     },
     {
       number: "05",
       emoji: "🎉",
-      title: "Entrega e Pós-Adoção",
+      title: "Entrega e Pós-Aquisição",
       description: "Seu Bengal vai para casa com vacinas, vermifugação, pedigree e kit completo. Suporte vitalício garantido!"
     }
   ];
@@ -36,7 +36,7 @@ const AdoptionProcess = () => {
     <section className="bg-background py-24" id="adocao">
       <div className="container mx-auto px-6">
         <h2 className="text-5xl font-bold text-secondary text-center mb-16">
-          Nosso Processo de Adoção
+          Nosso Processo de Aquisição
         </h2>
         
         <div className="max-w-3xl mx-auto relative">

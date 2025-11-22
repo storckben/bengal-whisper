@@ -35,11 +35,11 @@ const FAQ = () => {
     },
     { 
       q: "Fornecem garantia de saúde?", 
-      a: "Sim, todos os filhotes têm garantia contra doenças genéticas e saúde certificada por veterinário." 
+      a: "Sim, todos os filhotes têm garantia contra doenças e saúde certificada por veterinário." 
     },
     { 
-      q: "Posso visitar o gatil antes de decidir?", 
-      a: "Sim! Incentivamos visitas agendadas para conhecer nossos gatos e instalações pessoalmente." 
+      q: "Como posso conhecer os gatinhos disponíveis?", 
+      a: "Entre em contato pelo WhatsApp! Enviamos fotos, vídeos atualizados e podemos fazer chamadas de vídeo para você conhecer nossos gatinhos." 
     },
     { 
       q: "Qual a diferença entre rosetas e marble?", 

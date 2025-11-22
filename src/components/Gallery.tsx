@@ -7,6 +7,16 @@ import filhote1 from '@/assets/gallery-filhote1.jpeg';
 import filhote2 from '@/assets/gallery-filhote2.jpeg';
 import filhote3 from '@/assets/gallery-filhote3.jpeg';
 import filhote4 from '@/assets/gallery-filhote4.jpeg';
+import filhote5 from '@/assets/gallery-filhote5.jpeg';
+import filhote6 from '@/assets/gallery-filhote6.jpeg';
+import filhote7 from '@/assets/gallery-filhote7.jpeg';
+import filhote8 from '@/assets/gallery-filhote8.jpeg';
+import filhote9 from '@/assets/gallery-filhote9.jpeg';
+import filhote10 from '@/assets/gallery-filhote10.jpeg';
+import filhote11 from '@/assets/gallery-filhote11.jpeg';
+import filhote12 from '@/assets/gallery-filhote12.jpeg';
+import filhote13 from '@/assets/gallery-filhote13.jpeg';
+import filhote14 from '@/assets/gallery-filhote14.jpeg';
 import cliente1 from '@/assets/gallery-cliente1.jpeg';
 import cliente2 from '@/assets/gallery-cliente2.jpeg';
 import cliente3 from '@/assets/gallery-cliente3.jpeg';
@@ -26,6 +36,16 @@ const Gallery = () => {
     { url: filhote2, category: "Filhotes" },
     { url: filhote3, category: "Filhotes" },
     { url: filhote4, category: "Filhotes" },
+    { url: filhote5, category: "Filhotes" },
+    { url: filhote6, category: "Filhotes" },
+    { url: filhote7, category: "Filhotes" },
+    { url: filhote8, category: "Filhotes" },
+    { url: filhote9, category: "Filhotes" },
+    { url: filhote10, category: "Filhotes" },
+    { url: filhote11, category: "Filhotes" },
+    { url: filhote12, category: "Filhotes" },
+    { url: filhote13, category: "Filhotes" },
+    { url: filhote14, category: "Filhotes" },
     { url: cliente1, category: "Clientes" },
     { url: cliente2, category: "Clientes" },
     { url: cliente3, category: "Clientes" },

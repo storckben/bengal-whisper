@@ -1,4 +1,4 @@
-import { Phone, Mail, MapPin, Instagram, MessageCircle } from 'lucide-react';
+import { Phone, MapPin, Instagram, MessageCircle } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import bengalContact from '@/assets/bengal-contact.jpg';
 
@@ -45,10 +45,6 @@ const ContactSection = () => {
             <div className="mt-12 pt-8 border-t border-white/30">
               <h4 className="font-bold text-white mb-4 text-lg">Outras formas de contato:</h4>
               <div className="space-y-3 text-white/90">
-                <div className="flex items-center justify-center gap-3">
-                  <Mail className="w-5 h-5 text-white flex-shrink-0" />
-                  <span className="break-all text-sm md:text-base">contato@bengalgatildixini.online</span>
-                </div>
                 <div className="flex items-center justify-center gap-3">
                   <Instagram className="w-5 h-5 text-white flex-shrink-0" />
                   <span className="text-sm md:text-base">@bengal_sulmg</span>

@@ -50,7 +50,7 @@ const Index = () => {
     { 
       icon: <Brain className="w-8 h-8" />, 
       title: "Inteligência Superior", 
-      text: "Altamente inteligentes e treináveis, podem aprender truques, comandos e até usar focinheira. Curiosos por natureza." 
+      text: "Altamente inteligentes e treináveis, podem aprender truques, comandos e até usar coleira peitoral com guia . Curiosos por natureza." 
     },
     { 
       icon: <Droplets className="w-8 h-8" />, 

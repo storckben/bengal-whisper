@@ -2,11 +2,11 @@ import { Check } from 'lucide-react';
 
 const Inclusions = () => {
   const inclusions = [
-    { text: "Pedigree TICA ou CAT", detail: "Certificado internacional" },
-    { text: "Vacinas em Dia", detail: "Protocolo completo" },
+    { text: "Pedigree AME", detail: "Américan Cat Clube filiado a TICA Internacional" },
+    { text: "Vacinas em Dia", detail: "Vacinas de virose e raiva importadas" },
     { text: "Vermifugação", detail: "Livre de parasitas" },
     { text: "Microchip Identificação", detail: "Segurança" },
-    { text: "Atestado Veterinário", detail: "Saúde certificada" },
+    { text: "Atestado Veterinário", detail: "Exame de Fiv e Felv “negativados“ " },
     { text: "Contrato de Aquisição", detail: "Garantias legais" },
     { text: "Kit Completo", detail: "Ração, brinquedos e guia" },
     { text: "Suporte", detail: "Fale Conosco" },

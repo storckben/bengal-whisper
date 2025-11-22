@@ -10,6 +10,7 @@ import filhote4 from '@/assets/gallery-filhote4.jpeg';
 import cliente1 from '@/assets/gallery-cliente1.jpeg';
 import cliente2 from '@/assets/gallery-cliente2.jpeg';
 import cliente3 from '@/assets/gallery-cliente3.jpeg';
+import cliente4 from '@/assets/gallery-cliente4.jpeg';
 
 const Gallery = () => {
   const [filter, setFilter] = useState('Todos');
@@ -28,6 +29,7 @@ const Gallery = () => {
     { url: cliente1, category: "Clientes" },
     { url: cliente2, category: "Clientes" },
     { url: cliente3, category: "Clientes" },
+    { url: cliente4, category: "Clientes" },
   ];
 
   const filteredGallery = filter === 'Todos' 

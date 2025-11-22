@@ -1,4 +1,4 @@
-import { Phone, Mail, MapPin, Instagram, Clock } from 'lucide-react';
+import { Phone, MapPin, Instagram, Clock } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import logoDixini from '@/assets/logo-dixini.png';
@@ -82,10 +82,6 @@ const Footer = () => {
                 (35) 99971-6370
               </li>
               <li className="flex items-center gap-2">
-                <Mail className="w-4 h-4" />
-                contato@bengalgatildixini.online
-              </li>
-              <li className="flex items-center gap-2">
                 <MapPin className="w-4 h-4" />
                 Três Pontas, MG
               </li>
@@ -134,7 +130,7 @@ const Footer = () => {
           </div>
           <div className="flex justify-center gap-6 mt-6">
             <span className="text-primary text-xs font-semibold">🏆 TICA Registered</span>
-            <span className="text-primary text-xs font-semibold">🏆 CFA Member</span>
+            <span className="text-primary text-xs font-semibold">🏆 American Cat Club</span>
             <span className="text-primary text-xs font-semibold">✅ Criação Ética</span>
           </div>
         </div>

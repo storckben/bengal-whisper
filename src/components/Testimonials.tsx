@@ -29,8 +29,8 @@ const Testimonials = () => {
     },
     { 
       name: "Geovana", 
-      location: "Minas Gerais", 
-      text: "Amei a gatinha super dócil! A pelagem é igual a de uma oncinha. A minha é da raça Spotted Tabby. Agora quero um da raça Snow Mink também!"
+      location: "Três Pontas, MG", 
+      text: "Amei a gatinha super dócil! A pelagem é igual a de uma oncinha. A minha é da cor brown spotted tabby. Agora quero um da cor Snow Mink também!"
     },
     { 
       name: "Rosane Sander", 

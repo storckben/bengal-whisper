@@ -8,7 +8,7 @@ const Inclusions = () => {
     { text: "Microchip Identificação", detail: "Segurança" },
     { text: "Atestado Veterinário", detail: "Exame de Fiv e Felv “negativados“ " },
     { text: "Contrato de Aquisição", detail: "Garantias legais" },
-    { text: "Kit Completo", detail: "Ração, brinquedos e guia" },
+    { text: "Kit Completo", detail: "Ração, brinquedos, guia para gatos filhotes e caixa de transporte." },
     { text: "Suporte", detail: "Fale Conosco" },
     { text: "Garantia de Saúde", detail: "Cobertura de Saúde" },
     { text: "Socialização Completa", detail: "Ambiente familiar" }

@@ -1,6 +1,7 @@
 import { useEffect } from 'react';
 import { ChevronDown, Sparkles, Zap, Brain, Droplets, Heart, MessageCircle } from 'lucide-react';
 import { Button } from '@/components/ui/button';
+import ScrollingBanner from '@/components/ScrollingBanner';
 import RosetteTypes from '@/components/RosetteTypes';
 import ColorSlider from '@/components/ColorSlider';
 import Gallery from '@/components/Gallery';
@@ -71,6 +72,9 @@ const Index = () => {
 
   return (
     <div className="min-h-screen">
+      {/* Scrolling Banner */}
+      <ScrollingBanner />
+      
       {/* Hero Section */}
       <section id="inicio" className="relative h-screen flex items-center justify-center text-center px-6 overflow-hidden">
         <img 

@@ -12,6 +12,7 @@ import FAQ from '@/components/FAQ';
 import Testimonials from '@/components/Testimonials';
 import Footer from '@/components/Footer';
 import FloatingButtons from '@/components/FloatingButtons';
+import BottomNavMenu from '@/components/BottomNavMenu';
 import heroImage from '@/assets/bengal-hero.jpg';
 import sobreRacaBengal from '@/assets/sobre-raca-bengal.jpeg';
 import nossaHistoria from '@/assets/nossa-historia.png';
@@ -224,6 +225,9 @@ const Index = () => {
 
       {/* Floating Buttons */}
       <FloatingButtons />
+
+      {/* Bottom Navigation Menu */}
+      <BottomNavMenu />
     </div>
   );
 };

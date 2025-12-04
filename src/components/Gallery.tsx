@@ -6,6 +6,16 @@ import adulto3 from '@/assets/gallery-adulto3.jpeg';
 import adulto4 from '@/assets/gallery-adulto4.jpeg';
 import adulto5 from '@/assets/gallery-adulto5.jpeg';
 import adulto6 from '@/assets/gallery-adulto6.jpeg';
+import adulto7 from '@/assets/gallery-adulto7.jpeg';
+import adulto8 from '@/assets/gallery-adulto8.jpeg';
+import adulto9 from '@/assets/gallery-adulto9.jpeg';
+import adulto10 from '@/assets/gallery-adulto10.jpeg';
+import adulto11 from '@/assets/gallery-adulto11.jpeg';
+import adulto12 from '@/assets/gallery-adulto12.jpeg';
+import adulto13 from '@/assets/gallery-adulto13.jpeg';
+import adulto14 from '@/assets/gallery-adulto14.jpeg';
+import adulto15 from '@/assets/gallery-adulto15.jpeg';
+import adulto16 from '@/assets/gallery-adulto16.jpeg';
 import filhote1 from '@/assets/gallery-filhote1.jpeg';
 import filhote2 from '@/assets/gallery-filhote2.jpeg';
 import filhote3 from '@/assets/gallery-filhote3.jpeg';
@@ -41,6 +51,16 @@ const Gallery = () => {
     { url: adulto4, category: "Adultos" },
     { url: adulto5, category: "Adultos" },
     { url: adulto6, category: "Adultos" },
+    { url: adulto7, category: "Adultos" },
+    { url: adulto8, category: "Adultos" },
+    { url: adulto9, category: "Adultos" },
+    { url: adulto10, category: "Adultos" },
+    { url: adulto11, category: "Adultos" },
+    { url: adulto12, category: "Adultos" },
+    { url: adulto13, category: "Adultos" },
+    { url: adulto14, category: "Adultos" },
+    { url: adulto15, category: "Adultos" },
+    { url: adulto16, category: "Adultos" },
     { url: filhote1, category: "Filhotes" },
     { url: filhote2, category: "Filhotes" },
     { url: filhote3, category: "Filhotes" },

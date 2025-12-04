@@ -58,6 +58,11 @@ const Testimonials = () => {
       text: "Quero agradecer pelo ótimo atendimento do início ao fim da compra do meu felino fiquei com um pouco de receio por não conhecer o gatil e o Wilson, mas não me decepcionei aqui em casa ele é nossa alegria e compania. Mas uma vez obrigada e com certeza estarei indicando o gatil para outras pessoas. Abraços!🥰🐱"
     },
     { 
+      name: "Rodrigo", 
+      location: "Osasco, SP", 
+      text: "Adquiri um bengal snow fêmea no Gatil Dixini MG e fui muito bem atendido pelo proprietário, Wilson. Até a data da entrega, o Wilson constantemente me enviava fotos e vídeos da gatinha, para mostrar sua evolução, além de me enviar orientações para cuidados com a nova gatinha. A entrega também foi impecável… junto com a gatinha, foi entregue uma sacola contendo ração, patê, saches e brinquedos, ficando evidente o cuidado que o gatil tem com seus filhotes. A nossa gatinha, Maite, chegou limpa e perfumada, com muita saúde, com uma qualidade indiscutível. Recomendo de olhos fechados o Gatil Dixini MG. Se for adquirir outro bengal, certamente será com ele."
+    },
+    { 
       name: "Bruno Barbosa", 
       location: "Avaré, SP", 
       text: "Adquiri com o Wilson um Bengal Brown Spotted maravilhoso! Padrão da raça altíssimo. Temperamento perfeito e cada dia mais dócil e mais lindo. Ele se preocupou do início ao final em atestar perfeita saúde do animal, assim como orientações detalhadas sobre criação, adaptação na nossa rotina, brinquedos, arranhadores, suplementações. Tudo com muito cuidado e carinho. Somente boas recomendações! Indico para todos. Parabéns pelo trabalho!"

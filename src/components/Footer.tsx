@@ -1,18 +1,11 @@
 import { Phone, MapPin, Instagram, Clock } from 'lucide-react';
-import { Button } from '@/components/ui/button';
-import { Input } from '@/components/ui/input';
 import logoDixini from '@/assets/logo-dixini.png';
 
 const Footer = () => {
-  const handleNewsletterSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    // Newsletter signup logic would go here
-  };
-
   return (
     <footer className="bg-secondary text-primary-foreground py-16">
       <div className="container mx-auto px-6">
-        <div className="grid md:grid-cols-4 gap-12 mb-12">
+        <div className="grid md:grid-cols-3 gap-12 mb-12">
           {/* About */}
           <div>
             <img src={logoDixini} alt="Gatil Dixini Logo" className="h-24 w-auto mb-4" />
@@ -57,8 +50,8 @@ const Footer = () => {
               </li>
               <li>
                 <a href="https://wa.me/5535999716370" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
-    Filhotes Disponíveis
-  </a>
+                  Filhotes Disponíveis
+                </a>
               </li>
               <li>
                 <a href="#galeria" className="hover:text-primary transition-colors">
@@ -91,28 +84,6 @@ const Footer = () => {
               </li>
             </ul>
           </div>
-          
-          {/* Newsletter */}
-          <div>
-            <h4 className="font-bold text-primary mb-4 text-lg">Receba Novidades</h4>
-            <p className="text-primary-foreground/80 text-sm mb-4">
-              Cadastre-se para receber atualizações sobre novos filhotes
-            </p>
-            <form onSubmit={handleNewsletterSubmit} className="flex gap-2">
-              <Input 
-                type="email" 
-                placeholder="Seu email" 
-                className="bg-primary/10 border-primary/20 focus:border-primary text-primary-foreground placeholder:text-primary-foreground/50"
-                required
-              />
-              <Button 
-                type="submit"
-                className="bg-accent hover:bg-accent/90 text-accent-foreground font-semibold"
-              >
-                OK
-              </Button>
-            </form>
-          </div>
         </div>
         
         {/* Bottom Bar */}
@@ -129,7 +100,7 @@ const Footer = () => {
             </div>
           </div>
           <div className="flex justify-center gap-6 mt-6">
-            <span className="text-primary text-xs font-semibold">🏆 TICA Registered</span>
+            <span className="text-primary text-xs font-semibold">🏆 Pedigree AMEE</span>
             <span className="text-primary text-xs font-semibold">🏆 American Cat Club</span>
             <span className="text-primary text-xs font-semibold">✅ Criação Ética</span>
           </div>

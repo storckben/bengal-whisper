@@ -1,5 +1,8 @@
 import { Phone, MapPin, Instagram, Clock } from 'lucide-react';
 import logoDixini from '@/assets/logo-dixini.png';
+import seloGatil from '@/assets/selo-gatil-registrado.jpeg';
+import seloCriador from '@/assets/selo-criador-registrado.jpeg';
+import seloTica from '@/assets/selo-tica.jpeg';
 
 const Footer = () => {
   return (
@@ -99,10 +102,19 @@ const Footer = () => {
               </a>
             </div>
           </div>
-          <div className="flex justify-center gap-6 mt-6">
-            <span className="text-primary text-xs font-semibold">🏆 Pedigree AMEE</span>
-            <span className="text-primary text-xs font-semibold">🏆 American Cat Club</span>
-            <span className="text-primary text-xs font-semibold">✅ Criação Ética</span>
+          <div className="flex justify-center items-center gap-8 mt-8 mb-20 flex-wrap">
+            <div className="flex flex-col items-center gap-2">
+              <img src={seloGatil} alt="Gatil Registrado" className="h-20 w-auto rounded-lg shadow-md" />
+              <span className="text-primary text-xs font-semibold">Gatil Registrado</span>
+            </div>
+            <div className="flex flex-col items-center gap-2">
+              <img src={seloCriador} alt="Criador Registrado" className="h-20 w-auto rounded-lg shadow-md" />
+              <span className="text-primary text-xs font-semibold">Criador Registrado</span>
+            </div>
+            <div className="flex flex-col items-center gap-2">
+              <img src={seloTica} alt="The International Cat Association" className="h-20 w-auto rounded-lg shadow-md" />
+              <span className="text-primary text-xs font-semibold">TICA</span>
+            </div>
           </div>
         </div>
       </div>

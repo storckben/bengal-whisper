@@ -3,6 +3,9 @@ import { Button } from '@/components/ui/button';
 import adulto1 from '@/assets/gallery-adulto1.jpeg';
 import adulto2 from '@/assets/gallery-adulto2.jpeg';
 import adulto3 from '@/assets/gallery-adulto3.jpeg';
+import adulto4 from '@/assets/gallery-adulto4.jpeg';
+import adulto5 from '@/assets/gallery-adulto5.jpeg';
+import adulto6 from '@/assets/gallery-adulto6.jpeg';
 import filhote1 from '@/assets/gallery-filhote1.jpeg';
 import filhote2 from '@/assets/gallery-filhote2.jpeg';
 import filhote3 from '@/assets/gallery-filhote3.jpeg';
@@ -34,6 +37,9 @@ const Gallery = () => {
     { url: adulto1, category: "Adultos" },
     { url: adulto2, category: "Adultos" },
     { url: adulto3, category: "Adultos" },
+    { url: adulto4, category: "Adultos" },
+    { url: adulto5, category: "Adultos" },
+    { url: adulto6, category: "Adultos" },
     { url: filhote1, category: "Filhotes" },
     { url: filhote2, category: "Filhotes" },
     { url: filhote3, category: "Filhotes" },

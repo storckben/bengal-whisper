@@ -16,6 +16,11 @@ import adulto13 from '@/assets/gallery-adulto13.jpeg';
 import adulto14 from '@/assets/gallery-adulto14.jpeg';
 import adulto15 from '@/assets/gallery-adulto15.jpeg';
 import adulto16 from '@/assets/gallery-adulto16.jpeg';
+import adulto17 from '@/assets/gallery-adulto17.jpeg';
+import adulto18 from '@/assets/gallery-adulto18.jpeg';
+import adulto19 from '@/assets/gallery-adulto19.jpeg';
+import adulto20 from '@/assets/gallery-adulto20.jpeg';
+import adulto21 from '@/assets/gallery-adulto21.jpeg';
 import filhote1 from '@/assets/gallery-filhote1.jpeg';
 import filhote2 from '@/assets/gallery-filhote2.jpeg';
 import filhote3 from '@/assets/gallery-filhote3.jpeg';
@@ -61,6 +66,11 @@ const Gallery = () => {
     { url: adulto14, category: "Adultos" },
     { url: adulto15, category: "Adultos" },
     { url: adulto16, category: "Adultos" },
+    { url: adulto17, category: "Adultos" },
+    { url: adulto18, category: "Adultos" },
+    { url: adulto19, category: "Adultos" },
+    { url: adulto20, category: "Adultos" },
+    { url: adulto21, category: "Adultos" },
     { url: filhote1, category: "Filhotes" },
     { url: filhote2, category: "Filhotes" },
     { url: filhote3, category: "Filhotes" },

@@ -11,7 +11,7 @@ const FAQ = () => {
     },
     { 
       q: "Com que idade posso levar meu filhote para casa?", 
-      a: "Os filhotes vão para seus novos lares com no mínimo 12 semanas de idade, totalmente vacinados e socializados." 
+      a: "Os filhotes são liberados com 3 meses de idade logo após o desmame de no mínimo 60 dias, após aplicação de 2 vacinas de virose  e uma de raiva, sendo ambas importadas, vermifulgado, chipado, desparasitado, castrado, exames de fiv e felv negativados, atestado veterinário e banho." 
     },
     { 
       q: "Bengals se dão bem com crianças e outros pets?", 
@@ -31,11 +31,11 @@ const FAQ = () => {
     },
     { 
       q: "Fazem entrega para outros estados?", 
-      a: "Sim, realizamos entregas para todo o Brasil com segurança. O filhote viaja com todo conforto e documentação." 
+      a: "Sim. Realizamos envios aéreos para todo o território nacional, atendendo localidades com voos regulares operados pelas companhias aéreas LATAM, GOL e AZUL. Para a região Sudeste, oferecemos o serviço de entrega presencial." 
     },
     { 
       q: "Fornecem garantia de saúde?", 
-      a: "Sim, todos os filhotes têm garantia contra doenças e saúde certificada por veterinário." 
+      a: "Sim, todos os filhotes tem garantia de saúde, certificada por veterinário responsável." 
     },
     { 
       q: "Como posso conhecer os gatinhos disponíveis?", 
@@ -43,7 +43,7 @@ const FAQ = () => {
     },
     { 
       q: "Qual a diferença entre rosetas e marble?", 
-      a: "Rosetas são manchas circulares (mais valorizadas), enquanto marble tem padrão marmoreado corrido. Ambos são lindos!" 
+      a: "Rosetas são marcações circulares (as mais valorizadas), enquanto as marcações Marble tem padrão marmoreado corrido. Ambos são lindos !!" 
     }
   ];
 

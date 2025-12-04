@@ -102,18 +102,18 @@ const Footer = () => {
               </a>
             </div>
           </div>
-          <div className="flex justify-center items-center gap-8 mt-8 mb-20 flex-wrap">
-            <div className="flex flex-col items-center gap-2">
-              <img src={seloGatil} alt="Gatil Registrado" className="h-20 w-auto rounded-lg shadow-md" />
-              <span className="text-primary text-xs font-semibold">Gatil Registrado</span>
+          <div className="flex justify-center items-center gap-3 md:gap-8 mt-8 mb-20">
+            <div className="flex flex-col items-center gap-1 md:gap-2">
+              <img src={seloGatil} alt="Gatil Registrado" className="h-14 md:h-20 w-auto rounded-lg shadow-md" />
+              <span className="text-primary text-[10px] md:text-xs font-semibold text-center">Gatil Registrado</span>
             </div>
-            <div className="flex flex-col items-center gap-2">
-              <img src={seloCriador} alt="Criador Registrado" className="h-20 w-auto rounded-lg shadow-md" />
-              <span className="text-primary text-xs font-semibold">Criador Registrado</span>
+            <div className="flex flex-col items-center gap-1 md:gap-2">
+              <img src={seloCriador} alt="Criador Registrado" className="h-14 md:h-20 w-auto rounded-lg shadow-md" />
+              <span className="text-primary text-[10px] md:text-xs font-semibold text-center">Criador Registrado</span>
             </div>
-            <div className="flex flex-col items-center gap-2">
-              <img src={seloTica} alt="The International Cat Association" className="h-20 w-auto rounded-lg shadow-md" />
-              <span className="text-primary text-xs font-semibold">TICA</span>
+            <div className="flex flex-col items-center gap-1 md:gap-2">
+              <img src={seloTica} alt="The International Cat Association" className="h-14 md:h-20 w-auto rounded-lg shadow-md" />
+              <span className="text-primary text-[10px] md:text-xs font-semibold text-center">TICA</span>
             </div>
           </div>
         </div>

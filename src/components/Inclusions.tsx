@@ -2,16 +2,16 @@ import { Check } from 'lucide-react';
 
 const Inclusions = () => {
   const inclusions = [
-    { text: "Pedigree AME", detail: "Américan Cat Clube filiado a TICA Internacional" },
+    { text: "Pedigree AME", detail: "Américan Cat Clube filiado a TICA - The International Cat Association" },
     { text: "Vacinas em Dia", detail: "Vacinas de virose e raiva importadas" },
     { text: "Vermifugação", detail: "Livre de parasitas" },
-    { text: "Microchip Identificação", detail: "Segurança" },
-    { text: "Atestado Veterinário", detail: "Exame de Fiv e Felv “negativados“ " },
+    { text: "Microchipagem", detail: "Sistema de identificação e segurança" },
+    { text: "Atestado Veterinário", detail: "Exames FIV/FeLV negativos" },
     { text: "Contrato de Aquisição", detail: "Garantias legais" },
     { text: "Kit Completo", detail: "Ração, brinquedos, guia para gatos filhotes e caixa de transporte." },
-    { text: "Suporte", detail: "Fale Conosco" },
     { text: "Garantia de Saúde", detail: "Cobertura de Saúde" },
-    { text: "Socialização Completa", detail: "Ambiente familiar" }
+    { text: "Socialização Completa", detail: "Ambiente familiar" },
+    { text: "Assistência Pós-Aquisição", detail: "Suporte técnico especializado" }
   ];
 
   return (

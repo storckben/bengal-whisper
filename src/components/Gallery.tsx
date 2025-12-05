@@ -32,7 +32,6 @@ import filhote8 from '@/assets/gallery-filhote8.jpeg';
 import filhote9 from '@/assets/gallery-filhote9.jpeg';
 import filhote10 from '@/assets/gallery-filhote10.jpeg';
 import filhote11 from '@/assets/gallery-filhote11.jpeg';
-import filhote12 from '@/assets/gallery-filhote12.jpeg';
 import filhote13 from '@/assets/gallery-filhote13.jpeg';
 import filhote14 from '@/assets/gallery-filhote14.jpeg';
 import filhote15 from '@/assets/gallery-filhote15.jpeg';
@@ -82,7 +81,6 @@ const Gallery = () => {
     { url: filhote9, category: "Filhotes" },
     { url: filhote10, category: "Filhotes" },
     { url: filhote11, category: "Filhotes" },
-    { url: filhote12, category: "Filhotes" },
     { url: filhote13, category: "Filhotes" },
     { url: filhote14, category: "Filhotes" },
     { url: filhote15, category: "Filhotes" },

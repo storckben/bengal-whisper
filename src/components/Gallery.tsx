@@ -6,21 +6,21 @@ import adulto3 from '@/assets/gallery-adulto3.jpeg';
 import adulto4 from '@/assets/gallery-adulto4.jpeg';
 import adulto5 from '@/assets/gallery-adulto5.jpeg';
 import adulto6 from '@/assets/gallery-adulto6.jpeg';
-import adulto7 from '@/assets/gallery-adulto7.jpeg';
-import adulto8 from '@/assets/gallery-adulto8.jpeg';
-import adulto9 from '@/assets/gallery-adulto9.jpeg';
-import adulto10 from '@/assets/gallery-adulto10.jpeg';
-import adulto11 from '@/assets/gallery-adulto11.jpeg';
-import adulto12 from '@/assets/gallery-adulto12.jpeg';
-import adulto13 from '@/assets/gallery-adulto13.jpeg';
-import adulto14 from '@/assets/gallery-adulto14.jpeg';
-import adulto15 from '@/assets/gallery-adulto15.jpeg';
-import adulto16 from '@/assets/gallery-adulto16.jpeg';
-import adulto17 from '@/assets/gallery-adulto17.jpeg';
-import adulto18 from '@/assets/gallery-adulto18.jpeg';
-import adulto19 from '@/assets/gallery-adulto19.jpeg';
-import adulto20 from '@/assets/gallery-adulto20.jpeg';
-import adulto21 from '@/assets/gallery-adulto21.jpeg';
+import filhote18 from '@/assets/gallery-filhote18.jpeg';
+import filhote19 from '@/assets/gallery-filhote19.jpeg';
+import filhote20 from '@/assets/gallery-filhote20.jpeg';
+import filhote21 from '@/assets/gallery-filhote21.jpeg';
+import filhote22 from '@/assets/gallery-filhote22.jpeg';
+import filhote23 from '@/assets/gallery-filhote23.jpeg';
+import filhote24 from '@/assets/gallery-filhote24.jpeg';
+import filhote25 from '@/assets/gallery-filhote25.jpeg';
+import filhote26 from '@/assets/gallery-filhote26.jpeg';
+import filhote27 from '@/assets/gallery-filhote27.jpeg';
+import filhote28 from '@/assets/gallery-filhote28.jpeg';
+import filhote29 from '@/assets/gallery-filhote29.jpeg';
+import filhote30 from '@/assets/gallery-filhote30.jpeg';
+import filhote31 from '@/assets/gallery-filhote31.jpeg';
+import filhote32 from '@/assets/gallery-filhote32.jpeg';
 import filhote1 from '@/assets/gallery-filhote1.jpeg';
 import filhote2 from '@/assets/gallery-filhote2.jpeg';
 import filhote3 from '@/assets/gallery-filhote3.jpeg';
@@ -56,21 +56,21 @@ const Gallery = () => {
     { url: adulto4, category: "Adultos" },
     { url: adulto5, category: "Adultos" },
     { url: adulto6, category: "Adultos" },
-    { url: adulto7, category: "Adultos" },
-    { url: adulto8, category: "Adultos" },
-    { url: adulto9, category: "Adultos" },
-    { url: adulto10, category: "Adultos" },
-    { url: adulto11, category: "Adultos" },
-    { url: adulto12, category: "Adultos" },
-    { url: adulto13, category: "Adultos" },
-    { url: adulto14, category: "Adultos" },
-    { url: adulto15, category: "Adultos" },
-    { url: adulto16, category: "Adultos" },
-    { url: adulto17, category: "Adultos" },
-    { url: adulto18, category: "Adultos" },
-    { url: adulto19, category: "Adultos" },
-    { url: adulto20, category: "Adultos" },
-    { url: adulto21, category: "Adultos" },
+    { url: filhote18, category: "Filhotes" },
+    { url: filhote19, category: "Filhotes" },
+    { url: filhote20, category: "Filhotes" },
+    { url: filhote21, category: "Filhotes" },
+    { url: filhote22, category: "Filhotes" },
+    { url: filhote23, category: "Filhotes" },
+    { url: filhote24, category: "Filhotes" },
+    { url: filhote25, category: "Filhotes" },
+    { url: filhote26, category: "Filhotes" },
+    { url: filhote27, category: "Filhotes" },
+    { url: filhote28, category: "Filhotes" },
+    { url: filhote29, category: "Filhotes" },
+    { url: filhote30, category: "Filhotes" },
+    { url: filhote31, category: "Filhotes" },
+    { url: filhote32, category: "Filhotes" },
     { url: filhote1, category: "Filhotes" },
     { url: filhote2, category: "Filhotes" },
     { url: filhote3, category: "Filhotes" },

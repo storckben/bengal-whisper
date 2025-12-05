@@ -66,6 +66,16 @@ const Testimonials = () => {
       name: "Bruno Barbosa", 
       location: "Avaré, SP", 
       text: "Adquiri com o Wilson um Bengal Brown Spotted maravilhoso! Padrão da raça altíssimo. Temperamento perfeito e cada dia mais dócil e mais lindo. Ele se preocupou do início ao final em atestar perfeita saúde do animal, assim como orientações detalhadas sobre criação, adaptação na nossa rotina, brinquedos, arranhadores, suplementações. Tudo com muito cuidado e carinho. Somente boas recomendações! Indico para todos. Parabéns pelo trabalho!"
+    },
+    { 
+      name: "Rafaela Molina", 
+      location: "São José do Rio Preto, SP", 
+      text: "Eu sempre quis ter uma gatinha fiquei com muita dúvida em qual raça pegar, quando vi o bengal me apaixonei pela raça, entrei em contato com o @bengal_sulmg que tirou todas as minhas dúvidas, me explicou ainda mais sobre a raça e fui ficando cada vez mais apaixonada e a minha escolhida foi uma fêmea oncinha, coloquei o nome de Kitty, o Wilson trouxe ela até a porta da minha casa, com brindes e muitas explicações sobre os melhores cuidados com ela… hoje ela é a rainha da nossa casa uma perfeição em forma de gata! Só tenho a agradecer esse ótimo gatil que até hoje me envia mensagens falando de promoções de rações, acessórios, petiscos etc, minha gatinha está com 1 ano e 4 meses de pura fofura ela é uma gatinha muito amorosa com todos! Estou com vontade de comprar mais um dele o snow dos olhos azuis, vou me programar para isso pois sei que são muito cuidadosos e os gatos são perfeitos, saúde, comportamento… eu amo ter um bengal obrigada @bengal_sulmg por tudo!"
+    },
+    { 
+      name: "Revista Pulo do Gato", 
+      location: "Três Pontas, MG", 
+      text: "Pureza e qualidade genética. Cada gato vem com pedigree registrado. Suas características únicas, (pelagem exótica e temperamento afetuoso), são garantidas pela linhagem de qualidade. As cores mais lindas que temos são as Brown e Snow lynx e mink."
     }
   ];
 
